@@ -6,7 +6,7 @@ La partie ``[PC]`` correspond au programme en Python qui permet une utilisation 
 
 Le schéma pour raccorder la mémoire à l'Arduino est disponible dans le dossier ``Schema``. Les fichiers **.pro** et **.sch** sont fait pour le logiciel Kicad (le fichier **.jpg** est simplement une capture d'écran du schéma).
 
-Retrouvez tous les détails de ce projet dans mon article : [Programmer une mémoire Flash (EEPROM) 32 broches avec un Arduino](https://elrindel.github.io/programmateur-eeprom-diy-arduino){:target="_blank"}
+Retrouvez tous les détails de ce projet dans mon article : [Programmer une mémoire Flash (EEPROM) 32 broches avec un Arduino](https://elrindel.github.io/programmateur-eeprom-diy-arduino)
 
 ## [PC] Utilisation du client en Python
 
