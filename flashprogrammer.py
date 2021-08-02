@@ -109,7 +109,7 @@ def main():
                 display_error("Invalid address format")
                 usage()
         elif opt in ("-l", "--length"):
-            arg = arg.lower()
+            arg = arg.upper()
             if re.match(argValidation, arg):
                 length = arg
             else:
