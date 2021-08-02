@@ -113,8 +113,8 @@ void set_address(uint32_t address)
 	}
 
 	digitalWrite(A0, (address>>16)&1);
-	digitalWrite(A0, (address>>17)&1);
-	digitalWrite(A0, (address>>18)&1);
+	digitalWrite(A1, (address>>17)&1);
+	digitalWrite(A2, (address>>18)&1);
 	digitalWrite(A5, HIGH);
 }
 
